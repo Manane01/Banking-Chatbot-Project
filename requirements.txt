@@ -1,0 +1,6 @@
+Flask
+Flask_SQLAlchemy
+psycopg2-binary
+spacy
+nltk
+python-dotenv
